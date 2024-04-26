@@ -12,14 +12,14 @@ export class MyGroupComponent {
   groups:Group[]=[]
   groupsCopy:Group[]=[]
 
-  imageUrl = 'https://cinescopia.com/wp-content/uploads/2011/02/Posters-cine.jpg'; // URL de la imagen por defecto
+  imageUrl = 'https://cinescopia.com/wp-content/uploads/2011/02/Posters-cine.jpg'; // URl de la imagen por defecto
 
   constructor(private groupService:GroupService) {
     this.groupService.getGroups().subscribe(res=>{
       this.groups=res;
       this.groupsCopy=res;
       console.log(this.groups)
-    })
+     } )
   }
 
 
