@@ -5,7 +5,7 @@
   --black: #000000;
   --blacklight: #141414;
   --white: #eaeaea;
-  --primary-color:#FFAD00;
+  --primary-color:#004aad;
 }
 * {
   box-sizing: border-box;
@@ -47,7 +47,7 @@ header {
   justify-content: space-between;
   align-items: center;
   color: #FFFFFF;
-  background-color: #ffad00;
+  background-color: #004aad;
   padding: 10px 60px;
 
   @media (max-width: 1070px) {
@@ -63,7 +63,7 @@ li {
 }
 
 header button {
-  background-color: #FFAD00;
+  background-color: #004aad;
   color: #fff;
   padding: 10px 20px;
   border: none;
@@ -81,7 +81,7 @@ header button {
 
 header button:hover {
   background-color: #fff;
-  color: #FFAD00;
+  color: #004aad;
 }
 
 ul {
@@ -273,7 +273,7 @@ header nav ul li a {
 }
 
 .btn-hero {
-  background-color: #FFAD00;
+  background-color: #004aad;
   text-decoration: none;
   border-radius: 5px;
   color: #000000;
@@ -378,7 +378,7 @@ header nav ul li a {
   padding:10px;
   border-radius: 12px;
 
-  background-color: #FFAD00;
+  background-color: #004aad;
 
    color: #000000;
    font-weight: bold;
@@ -625,7 +625,7 @@ cursor:pointer;
   width: 100px;
   height: 50px;
   border-radius: 50px 50px 0 0;
-  background-color: #ffad00;
+  background-color: #004aad;
 }
 
 .description-heading {
@@ -645,7 +645,7 @@ cursor:pointer;
   align-items: center;
   justify-content: center;
   padding: 4px 8px;
-  background-color: #FFC107;
+  background-color: #004aad;
   color: #fff;
   border: none;
   border-radius: 3px;
@@ -659,7 +659,7 @@ cursor:pointer;
 
   &:hover {
     background-color: #fff;
-    color: #FFC107;
+    color: #004aad;
   }
 
   .btn-text {
@@ -991,7 +991,7 @@ footer .social-links:nth-last-of-type(3){
 }
 
 footer {
-  background-color: #FFAD00;
+  background-color: #004aad;
   padding: 20px;
   color: #555;
   font-size: 14px;
