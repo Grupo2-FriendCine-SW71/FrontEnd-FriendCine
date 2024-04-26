@@ -1,7 +1,7 @@
 
 :root{
   --green: #5ACD47;
-  --greenlight: #76ec66;
+  --greenlight: #6ce55c;
   --black: #000000;
   --blacklight: #141414;
   --white: #eaeaea;
@@ -16,7 +16,7 @@
 
 html {
   font-family: 'Inter', sans-serif;
-  color: #212529;
+  color: #1a1d20;
   scroll-behavior: smooth !important;
 }
 
@@ -63,7 +63,7 @@ li {
 }
 
 header button {
-  background-color: #004aad;
+  background-color: #04459a;
   color: #fff;
   padding: 10px 20px;
   border: none;
@@ -121,7 +121,7 @@ header nav ul li:hover {
 }
 
 header nav ul li a {
-  color: #FFFFFF;
+  color: #ffffffe2;
   text-decoration: none;
   font-size: 18px;
 
