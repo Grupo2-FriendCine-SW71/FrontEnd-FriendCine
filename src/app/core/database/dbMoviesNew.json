@@ -40,6 +40,26 @@
       ],
       "name": "Action Lovers",
       "description": "Somos Amantes de la acción "
+    },
+    {
+      "id": 3,
+      "ubication": "Pueblo Libre, Lima",
+      "topics": [
+        "Action",
+        "Adventure",
+        "Science fiction",
+        "Space",
+        "War"
+      ],
+      "name": "I<3Space",
+      "description": "Ciencia ficción y batallas espaciales"
+    },
+    {
+      "id": 4,
+      "ubication": "Grupo ejemplo",
+      "topics": "",
+      "name": "Grupo Ejemplo",
+      "description": "asdasxczasd"
     }
   ],
   "Topic": [
@@ -292,7 +312,7 @@
       "address": "Calle Alfredo Mendiola 3698 Km 8.5 de la Av. Panamericana Norte Independencia",
       "referenceAddress": "Cruce de la Av. Izaguirre y Av. Universitaria",
       "businessType_id": {
-          "id": 1
+        "id": 1
       }
     },
     {
